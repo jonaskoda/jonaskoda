@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi
 
-- 🌱 I’m currently studying Cybernetics and Robotics at CTU Prague
+
 
